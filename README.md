@@ -34,7 +34,9 @@ Age-Calculator
 ├── logic.py
 ├── main.py
 ├── README.md
-└── output.png
+├── output1.png
+├── output2.png
+└── output3.png
 ```
 
 ---
@@ -64,9 +66,9 @@ python main.py
 ## Output Screenshots
 
 <p align="center">
-  <img src="C:\Users\PRANAV\Pictures\Screenshots\output1.png" width="500">
+  <img src="output1.png" width="500">
   <br><br>
-  <img src=C:\Users\PRANAV\Pictures\Screenshots\output2.png width="500">
+  <img src="output2.png" width="500">
   <br><br>
-  <img src=C:\Users\PRANAV\Pictures\Screenshots\output3.png width="500">
+  <img src="output3.png" width="500">
 </p>
